@@ -1,0 +1,8 @@
+2024/11/09-18:04:18.615 b3c Recovering log #1127
+2024/11/09-18:04:18.617 b3c Delete type=0 #1127
+2024/11/09-18:04:18.618 b3c Delete type=3 #1126
+2024/11/09-18:09:59.585 5c4 Level-0 table #1131: started
+2024/11/09-18:09:59.585 5c4 Level-0 table #1131: 0 bytes OK
+2024/11/09-18:09:59.586 5c4 Delete type=0 #1129
+2024/11/09-18:09:59.591 5c4 Manual compaction at level-0 from '!journal!DgIeWGkxkwouUnTW' @ 72057594037927935 : 1 .. '!journal.pages!DgIeWGkxkwouUnTW.xJhMkpOWF7rZMPUh' @ 0 : 0; will stop at (end)
+2024/11/09-18:09:59.592 5c4 Manual compaction at level-1 from '!journal!DgIeWGkxkwouUnTW' @ 72057594037927935 : 1 .. '!journal.pages!DgIeWGkxkwouUnTW.xJhMkpOWF7rZMPUh' @ 0 : 0; will stop at (end)

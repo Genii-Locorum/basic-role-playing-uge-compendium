@@ -1,0 +1,263 @@
+{
+  "id": "basic-role-playing-uge-compendium",
+  "title": "Basic Role Playing UGE Compendium",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Dangermouse",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "personalities",
+      "label": "Personalities",
+      "path": "packs/personalities",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "allegiances",
+      "label": "Allegiances",
+      "path": "packs/allegiances",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armour",
+      "label": "Armour",
+      "path": "packs/armour",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "character-failings",
+      "label": "Character Failings",
+      "path": "packs/character-failings",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "combat-tables",
+      "label": "Combat Tables",
+      "path": "packs/combat-tables",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "hit-locations",
+      "label": "Hit-Locations",
+      "path": "packs/hit-locations",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "magic-spells",
+      "label": "Magic Spells",
+      "path": "packs/magic-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "mutations",
+      "label": "Mutations",
+      "path": "packs/mutations",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "passions",
+      "label": "Passions",
+      "path": "packs/passions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "powers",
+      "label": "Powers",
+      "path": "packs/powers",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "professions",
+      "label": "Professions",
+      "path": "packs/professions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "psychic-abilities",
+      "label": "Psychic Abilities",
+      "path": "packs/psychic-abilities",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "reputations",
+      "label": "Reputations",
+      "path": "packs/reputations",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "skill-categories",
+      "label": "Skill Categories",
+      "path": "packs/skill-categories",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "skills",
+      "label": "Skills",
+      "path": "packs/skills",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "sorcery-spells",
+      "label": "Sorcery Spells",
+      "path": "packs/sorcery-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "superpower-modifiers",
+      "label": "Superpower Modifiers",
+      "path": "packs/superpower-modifiers",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "superpowers",
+      "label": "Superpowers",
+      "path": "packs/superpowers",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "traits",
+      "label": "Traits",
+      "path": "packs/traits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "utilities",
+      "label": "Utilities",
+      "path": "packs/utilities",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "path": "packs/weapons",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "brp",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A module for Foundry VTT implementation of Chaosium's BRP. This contains compendia for the BRP System for Foundry VTT(https://github.com/Genii-Locorum/brp). This module is for version 12.1.30 or later of the BRP implementation.",
+  "url": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium",
+  "manifest": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium/releases/download/Betav1/module.zip",
+  "license": "LICENSE.txt"
+}

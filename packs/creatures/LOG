@@ -1,0 +1,7 @@
+2024/11/09-18:04:18.636 110 Recovering log #149
+2024/11/09-18:04:18.638 110 Delete type=0 #149
+2024/11/09-18:04:18.638 110 Delete type=3 #148
+2024/11/09-18:09:59.591 5c4 Level-0 table #153: started
+2024/11/09-18:09:59.591 5c4 Level-0 table #153: 0 bytes OK
+2024/11/09-18:09:59.592 5c4 Delete type=0 #151
+2024/11/09-18:09:59.594 5c4 Manual compaction at level-0 from '!actors!HCuf4K60ZkfwJDBf' @ 72057594037927935 : 1 .. '!actors.items!HCuf4K60ZkfwJDBf.zK12FBGGiV4bvXcs' @ 0 : 0; will stop at (end)
