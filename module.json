@@ -62,188 +62,188 @@
       "name": "combat-tables",
       "label": "Combat Tables",
       "path": "packs/combat-tables",
-      "type": "Item",
+      "type": "RollTable",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "hit-locations",
       "label": "Hit-Locations",
       "path": "packs/hit-locations",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "magic-spells",
       "label": "Magic Spells",
       "path": "packs/magic-spells",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "mutations",
       "label": "Mutations",
       "path": "packs/mutations",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "passions",
       "label": "Passions",
       "path": "packs/passions",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "powers",
       "label": "Powers",
       "path": "packs/powers",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "professions",
       "label": "Professions",
       "path": "packs/professions",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "psychic-abilities",
       "label": "Psychic Abilities",
       "path": "packs/psychic-abilities",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "reputations",
       "label": "Reputations",
       "path": "packs/reputations",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "skill-categories",
       "label": "Skill Categories",
       "path": "packs/skill-categories",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "skills",
       "label": "Skills",
       "path": "packs/skills",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "sorcery-spells",
       "label": "Sorcery Spells",
       "path": "packs/sorcery-spells",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "superpower-modifiers",
       "label": "Superpower Modifiers",
       "path": "packs/superpower-modifiers",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "superpowers",
       "label": "Superpowers",
       "path": "packs/superpowers",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "traits",
       "label": "Traits",
       "path": "packs/traits",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "utilities",
       "label": "Utilities",
       "path": "packs/utilities",
       "type": "Macro",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     },
     {
       "name": "weapons",
       "label": "Weapons",
       "path": "packs/weapons",
       "type": "Item",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     }
   ],
   "relationships": {
