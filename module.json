@@ -1,7 +1,7 @@
 {
   "id": "basic-role-playing-uge-compendium",
   "title": "Basic Role Playing UGE Compendium",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12.331",
@@ -11,20 +11,13 @@
     {
       "name": "Dangermouse",
       "flags": {}
+    },
+    {
+      "name": "Crys",
+      "flags": {}
     }
   ],
   "packs": [
-    {
-      "name": "personalities",
-      "label": "Personalities",
-      "path": "packs/personalities",
-      "type": "Item",
-      "system": "brp",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
     {
       "name": "allegiances",
       "label": "Allegiances",
@@ -70,6 +63,17 @@
       }
     },
     {
+      "name": "creatures",
+      "label": "Creatures",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "hit-locations",
       "label": "Hit-Locations",
       "path": "packs/hit-locations",
@@ -106,6 +110,17 @@
       "name": "passions",
       "label": "Passions",
       "path": "packs/passions",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "personalities",
+      "label": "Personalities",
+      "path": "packs/personalities",
       "type": "Item",
       "system": "brp",
       "ownership": {
@@ -258,6 +273,6 @@
   "description": "A module for Foundry VTT implementation of Chaosium's BRP. This contains compendia for the BRP System for Foundry VTT(https://github.com/Genii-Locorum/brp). This module is for version 12.1.30 or later of the BRP implementation.",
   "url": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium",
   "manifest": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium/releases/download/Betav1/module.zip",
+  "download": "https://github.com/Genii-Locorum/basic-role-playing-uge-compendium/releases/download/Betav2/module.zip",
   "license": "LICENSE.txt"
 }
