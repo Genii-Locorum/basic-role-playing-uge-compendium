@@ -1,0 +1,8 @@
+2025/01/26-08:45:59.777 3bf4 Recovering log #522
+2025/01/26-08:45:59.777 3bf4 Delete type=0 #522
+2025/01/26-08:45:59.777 3bf4 Delete type=3 #521
+2025/01/26-08:54:54.298 2750 Level-0 table #526: started
+2025/01/26-08:54:54.298 2750 Level-0 table #526: 0 bytes OK
+2025/01/26-08:54:54.298 2750 Delete type=0 #524
+2025/01/26-08:54:54.299 2750 Manual compaction at level-0 from '!items!cR94pKLPPwkrtjKS' @ 72057594037927935 : 1 .. '!items!cR94pKLPPwkrtjKS' @ 0 : 0; will stop at (end)
+2025/01/26-08:54:54.299 2750 Manual compaction at level-1 from '!items!cR94pKLPPwkrtjKS' @ 72057594037927935 : 1 .. '!items!cR94pKLPPwkrtjKS' @ 0 : 0; will stop at (end)

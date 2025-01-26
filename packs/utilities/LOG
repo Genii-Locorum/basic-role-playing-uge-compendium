@@ -1,0 +1,7 @@
+2025/01/26-08:56:22.147 4e60 Recovering log #478
+2025/01/26-08:56:22.148 4e60 Delete type=0 #478
+2025/01/26-08:56:22.148 4e60 Delete type=3 #476
+2025/01/26-08:58:34.156 2274 Level-0 table #483: started
+2025/01/26-08:58:34.156 2274 Level-0 table #483: 0 bytes OK
+2025/01/26-08:58:34.156 2274 Delete type=0 #481
+2025/01/26-08:58:34.157 2274 Manual compaction at level-0 from '!macros!ZsmFtLICvDbhkS5e' @ 72057594037927935 : 1 .. '!macros!ZsmFtLICvDbhkS5e' @ 0 : 0; will stop at (end)
