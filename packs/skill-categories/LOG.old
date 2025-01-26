@@ -1,7 +1,0 @@
-2024/11/14-16:18:43.355 f54 Recovering log #27
-2024/11/14-16:18:43.356 f54 Delete type=0 #27
-2024/11/14-16:18:43.356 f54 Delete type=3 #26
-2024/11/14-18:50:23.190 1018 Level-0 table #31: started
-2024/11/14-18:50:23.190 1018 Level-0 table #31: 0 bytes OK
-2024/11/14-18:50:23.190 1018 Delete type=0 #29
-2024/11/14-18:50:23.192 1018 Manual compaction at level-0 from '!items!3zmqm9JvKjocTeCE' @ 72057594037927935 : 1 .. '!items!znNNyumVLSep7QtY' @ 0 : 0; will stop at (end)
